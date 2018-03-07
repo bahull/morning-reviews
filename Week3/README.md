@@ -1,5 +1,7 @@
-Week 2:
+Week 3:
 
-Day 1:
-Day 2:
-Day 3:
+Monday: No Review - nodb projects
+Tuesday: ?
+Wednesday: React IV - Routing
+Thursday: SQL I
+Friday: No Review - Simulation I

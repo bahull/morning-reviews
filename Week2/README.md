@@ -1,7 +1,7 @@
 Week 2:
 
-Day 1:
-Day 2:
-Day 3:
-Day 4:
-Day 5:
+Monday: React I - Basics
+Tuesday: React II - State, Props, Proptypes, Component Lifecycle
+Wednesday: React III - HTTP, Routing
+Thursday: Node I
+Friday: CSS Positioning
