@@ -1,6 +1,7 @@
 Week 1:
 
-Day 1:
-Day 2:
-Day 3:
-Day 4:
+Monday: No Review - First day orientation
+Tuesday: Git/Javascript I
+Wednesday: Javascript II
+Thursday: Javascript III
+Friday: HTML/CSS
