@@ -187,20 +187,6 @@ let bryce = new Person("Bryce", "Hull", "Not_Bryces_Real_Email");
 // console.log(bryce)
 // bryce.makeWidget()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 class Alien extends Person{
   constructor(first_name, last_name, email, alienRace){
     super(first_name, last_name, email)
